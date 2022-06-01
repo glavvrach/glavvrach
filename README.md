@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @glavvrach
+- 👋 Hi, I’m @glavvrach, iam from RUSSIA.
 - 👀 I’m interested in LARVEL AND VUE JS
 - 🌱 I’m currently learning java, python and REACT
 - 💞️ I’m looking to collaborate on project of all my life). Yes, i have an idea!!
