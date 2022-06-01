@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @glavvrach
 - 👀 I’m interested in LARVEL AND VUE JS
 - 🌱 I’m currently learning java, python and REACT
-- 💞️ I’m looking to collaborate on project all my life)
+- 💞️ I’m looking to collaborate on project of all my life). Yes, i have an idea!!
 - 📫 How to reach me a89200455525@ya.ru
 
 <!---
